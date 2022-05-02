@@ -2,7 +2,9 @@
 
 <p align="center"><img src="https://i.ibb.co/dBCQ2S3/32.png" alt="32" border="0" width="256"/></p>
 
-My name is Vladimir Belomestnykh and I'm a system engineer. I'm from Russia, currently working at [<img src='https://svgshare.com/i/gmy.svg' alt='Selectel' height='30'>](https://github.com/selectel). You can find me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/belomestnykh/),  or on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/paddypwnz).
+My name is Vladimir Belomestnykh and I'm a system engineer. I'm from Russia, currently working at [<img src='https://svgshare.com/i/gmy.svg' alt='Selectel' height='25'>](https://github.com/selectel). 
+
+You can find me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/belomestnykh/),  or on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/paddypwnz).
 
 ## 🔧 Technologies & Tools
 🌱 I’m currently learning: ![](https://img.shields.io/badge/Cloud-OpenStack-informational?style=flat&logo=openstack&logoColor=white&color=2bbc8a)
