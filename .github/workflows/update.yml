@@ -18,6 +18,7 @@ jobs:
           user: operator2024
           template: terminal
           base: header, activity, community, repositories, metadata
+          config_octicon: yes
           config_timezone: Asia/Yekaterinburg
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -41,8 +42,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
-          plugin_traffic: yes
           repositories: 100
