@@ -39,10 +39,10 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: firstname lastname, username, work.pwnz@gmail.com, work.pwnz+github@gmail.com, Operator2024
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming, data
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 5
-          plugin_languages_recent_categories: markup, programming, data
+          plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 90
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
