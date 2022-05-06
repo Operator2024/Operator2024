@@ -52,7 +52,7 @@ You can find me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/ic
 
 ## A little bit more
 
-You can support me via: [<img src='https://static.yoomoney.ru/makeupd/_/crgIFYockdtORWQVx_beiX4wgqg.svg' height='40' alt='donate 100'>](https://yoomoney.ru/transfer/quickpay?requestId=343937343931363837355f34653631386630323930346132303266616664386435396361356532343237313832313431613363) or [<img src='https://static.yoomoney.ru/makeupd/_/crgIFYockdtORWQVx_beiX4wgqg.svg' height='40' alt='donate 500'>](https://yoomoney.ru/transfer/quickpay?requestId=343937343931383731335f61303036323838313835646266623339613636353133333565326434636435616266626137613861)  or [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/operator2024)
+You can support me via: [<img src='https://static.yoomoney.ru/makeupd/_/crgIFYockdtORWQVx_beiX4wgqg.svg' height='40' alt='donate 100'>](https://www.tinkoff.ru/cf/3A7qI9vTROS) or [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/operator2024)
 
 Welcome to my TeamSpeak3 server:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/teamspeak.svg' alt='teamspeak' height='40'>](http://ts3.operator2018.ru/)  
 
