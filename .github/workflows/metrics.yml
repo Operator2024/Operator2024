@@ -16,9 +16,9 @@ jobs:
 
           # Options
           users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, action@github.com
-          plugin_repositories_skipped: Operator2024/Operator2024
-          repositories_skipped: Operator2024/Operator2024
-          user: operator2024
+          plugin_repositories_skipped: Operator2024/Operator2024, Operator2024
+          repositories_skipped: Operator2024/Operator2024, Operator2024
+          user: Operator2024
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
@@ -36,12 +36,12 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_activity_skipped: Operator2024/Operator2024
+          plugin_activity_skipped: Operator2024/Operator2024, Operator2024
           plugin_activity_ignored: github-actions[bot]
           plugin_gists: yes
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
-          #plugin_languages_indepth: no
+          plugin_languages_indepth: yes
           commits_authoring: firstname lastname, username, work.pwnz@gmail.com, work.pwnz+github@gmail.com, Operator2024
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
