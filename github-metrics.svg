@@ -270,7 +270,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28.2kb of code in 33 edited files across 39 commits over last 77 days</small>
+                <small>estimation from 28.2kb of code in 33 edited files across 39 commits over last 78 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -3058,7 +3058,7 @@ Signed-off-by: Vladimir Belomestnykh &lt;work.pwnz+github@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2022, 08:30:14 (timezone Asia/Yekaterinburg) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 19 Jun 2022, 09:22:04 (timezone Asia/Yekaterinburg) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
