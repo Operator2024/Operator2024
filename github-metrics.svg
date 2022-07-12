@@ -276,12 +276,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.1657348385029" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="326.1657348385029" y="0" width="13.629144261244258" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="339.79487909974716" y="0" width="10.058046365870162" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="349.8529254656173" y="0" width="6.7162850325843095" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="356.56921049820164" y="0" width="3.472810797336277" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="360.0420212955379" y="0" width="99.95797870446209" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.5262032085561" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="326.5262032085561" y="0" width="13.644206773618539" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="340.1704099821747" y="0" width="10.06916221033868" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="350.2395721925134" y="0" width="6.723707664884135" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="356.9632798573975" y="0" width="3.4766488413547236" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="360.4399286987522" y="0" width="99.56007130124777" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -295,7 +295,7 @@
                             <small>
                                 <div>779 lines</div>
                                 <div>19.9 kB</div>
-                                <div>70.91%</div>
+                                <div>70.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -308,7 +308,7 @@
                             <small>
                                 <div>20 lines</div>
                                 <div>832 bytes</div>
-                                <div>2.96%</div>
+                                <div>2.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -347,7 +347,7 @@
                             <small>
                                 <div>6 lines</div>
                                 <div>212 bytes</div>
-                                <div>0.75%</div>
+                                <div>0.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -358,9 +358,9 @@
                                 Other
                             </div>
                             <small>
-                                <div>139 lines</div>
-                                <div>6.10 kB</div>
-                                <div>21.73%</div>
+                                <div>148 lines</div>
+                                <div>6.07 kB</div>
+                                <div>21.64%</div>
                             </small>
                         </div>
                     </section>
@@ -3031,7 +3031,7 @@ Signed-off-by: Vladimir Belomestnykh &lt;work.pwnz+github@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2022, 08:52:25 (timezone Asia/Yekaterinburg) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Jul 2022, 09:52:27 (timezone Asia/Yekaterinburg) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
