@@ -276,12 +276,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.7862793235134" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="325.7862793235134" y="0" width="13.26923076923077" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="339.05551009274416" y="0" width="9.6303873431533" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="348.6858974358974" y="0" width="6.430714675395526" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="355.1166121112929" y="0" width="3.325150027277687" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="358.4417621385706" y="0" width="101.55823786142935" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.5198964295448" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="325.5198964295448" y="0" width="13.258381030253476" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="338.7782774597983" y="0" width="9.622512946306896" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="348.4007904061052" y="0" width="6.425456527664213" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="354.8262469337694" y="0" width="3.3224311801580813" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="358.14867811392753" y="0" width="101.8513218860725" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -295,7 +295,7 @@
                             <small>
                                 <div>730 lines</div>
                                 <div>20.7 kB</div>
-                                <div>70.82%</div>
+                                <div>70.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -358,9 +358,9 @@
                                 Other
                             </div>
                             <small>
-                                <div>158 lines</div>
-                                <div>6.47 kB</div>
-                                <div>22.08%</div>
+                                <div>151 lines</div>
+                                <div>6.50 kB</div>
+                                <div>22.14%</div>
                             </small>
                         </div>
                     </section>
@@ -2984,7 +2984,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 08:40:20 (timezone Asia/Yekaterinburg) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 09:39:15 (timezone Asia/Yekaterinburg) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
