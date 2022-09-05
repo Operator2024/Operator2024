@@ -10,13 +10,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.22
+      - uses: lowlighter/metrics@v3.26
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           users_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, action@github.com
-          plugin_repositories_skipped: Operator2024/Operator2024
           repositories_skipped: Operator2024/Operator2024
           user: Operator2024
           template: classic
@@ -43,16 +42,15 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_indepth: yes
           commits_authoring: firstname lastname, username, work.pwnz@gmail.com, work.pwnz+github@gmail.com, Operator2024, Vladimir Belomestnykh
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 25
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 90
-          plugin_languages_recent_load: 600
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 180
+          plugin_languages_recent_load: 900
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 0.1%
-          plugin_languages_other: false
+          plugin_languages_threshold: 0
           repositories_forks: yes
           plugin_lines: yes
           repositories: 100
